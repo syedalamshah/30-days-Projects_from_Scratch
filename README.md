@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🚀 30 Days of Python – Project Challenge
 
 Welcome to my **30 Days of Python** project-based challenge! This repository contains a collection of beginner to intermediate-level Python projects designed to build strong foundational skills through consistent daily practice.
@@ -72,3 +73,6 @@ Navigate into any project folder and run the Python script:
 cd day01_number_guessing_game
 python number_guess.py
 
+=======
+# 30-days-Projects_from_Scratch
+>>>>>>> 68d641947884fa3a2df8395d78c17a2390756c3e
