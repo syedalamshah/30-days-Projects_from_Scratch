@@ -34,12 +34,6 @@ Each day has its own folder and contains:
 
 ```bash
 📦 30-days-Python
- ┣ 📂 day01_print_pattern/
- ┣ 📂 day02_simple_calculator/
- ┣ 📂 day03_number_guessing_game/
- ┣ 📂 day04_password_generator/
- ┣ 📂 day05_word_counter/
- ┣ 📂 day06_rock_paper_scissors/
  ┗ 📜 README.md
 📅 Project Roadmap
 
